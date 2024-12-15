@@ -1,7 +1,8 @@
 # Dynameletric: Intelligent Power Management System
 
 ## Overview
-**Dynameletric** is a real-time power monitoring and management system designed to enhance energy efficiency in electronic devices. Leveraging IoT, AI, and machine learning, this project aims to optimize power consumption, predict usage patterns, and reduce energy waste. Dynameletric enables adaptive power management by embedding AI-driven models into hardware, thus promoting eco-friendly, sustainable electronics with a reduced carbon footprint.
+
+**Dynameletric** is an advanced power monitoring and management system designed to optimize energy usage in electronic devices. By integrating IoT, AI, and machine learning technologies, this system provides real-time insights into power consumption, predicts usage trends, and minimizes energy waste. Dynameletric employs intelligent power management by embedding AI-driven models directly into hardware, fostering more sustainable and eco-friendly electronics while helping reduce the overall carbon footprint.
 
 ## Features
 - **Real-Time Data Collection**: Continuously monitors power, current, and temperature metrics.
@@ -12,7 +13,7 @@
 ## Project Structure
 
 ```plaintext
-PoweOP/
+Dynamelectric/
 │
 │   ├── data.py                 # Data handling and preprocessing
 │   ├── data2.py                # Additional data processing code
@@ -105,8 +106,21 @@ Contributions are welcome! Please follow these steps:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries or suggestions, please reach out to the project maintainer:
-- **Name**: Jsh Agarwal
-- **Email**: [jshagarwal15@gmail.com](mailto:jshagarwal15@gmail.com)
+## Contributors
 
+This project is maintained by the following individuals:
+
+- **Jsh Agarwal**  
+  Email: [jshagarwal15@gmail.com](mailto:jshagarwal15@gmail.com)
+
+- **Vipul Mhatre**  
+  Email: [mhatrevipul1518@gmail.com](mailto:mhatrevipul1518@gmail.com)
+
+- **Divy Mav**  
+  Email: [divymav5@gmail.com](mailto:divymav5@gmail.com)
+
+- **Ankush Pandey**  
+  Email: [ankushpandey436@gmail.com](mailto:ankushpandey436@gmail.com)
+
+- **Ronit Mehta**  
+  Email: [ronit.co80@tpoly.in](mailto:ronit.co80@tpoly.in)

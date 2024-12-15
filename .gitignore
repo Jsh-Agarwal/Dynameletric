@@ -131,3 +131,6 @@ dmypy.json
 # Embedded systems
 *.hex
 *.elf
+
+# Testing
+testiot.c
